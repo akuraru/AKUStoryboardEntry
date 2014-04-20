@@ -1,0 +1,7 @@
+#define kStoryboardAViewController @"AViewController"
+#define kSegueB @"B"
+#define kSegueC @"C"
+#define kStoryboardCViewController @"CViewController"
+#define kSegueD @"D"
+#define kStoryboardBViewController @"BViewController"
+#define kStoryboardDViewController @"DViewController"

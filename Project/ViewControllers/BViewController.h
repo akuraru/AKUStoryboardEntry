@@ -1,0 +1,2 @@
+@interface BViewController : UIViewController
+@end

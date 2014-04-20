@@ -1,0 +1,2 @@
+@interface AViewController : UIViewController
+@end
