@@ -16,12 +16,11 @@
 
 + (UIStoryboard *)storyboard;
 
-- (id)initWithStoryboard:(UIStoryboard *)storyboard;
-
 - (id)initialViewController;
 - (id)viewController:(NSString *)identifier;
 
 - (void)showModelInitaial:(UIViewController *)controller;
 
+// Please override to return the name of the storyboard this method
 + (NSString *)storyboardName;
 @end
