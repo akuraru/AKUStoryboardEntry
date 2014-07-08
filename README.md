@@ -7,7 +7,7 @@ AKUStoryboardEntry is a Library to help to load a ViewController from storyboard
 ## Installation
 
 ``` ruby
-pod "AKUStoryboardEntry", :git => 'https://github.com/akuraru/AKUStoryboardEntry.git'
+pod 'AKUStoryboardEntry'
 ```
 
 ## Usage

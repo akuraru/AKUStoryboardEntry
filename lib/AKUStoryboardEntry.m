@@ -49,7 +49,7 @@
     return [self.storyboard instantiateViewControllerWithIdentifier:identifier];
 }
 
-- (void)showModelInitaial:(UIViewController *)controller {
+- (void)showModelInitial:(UIViewController *)controller {
     [controller presentViewController:[self.storyboard instantiateInitialViewController] animated:YES completion:nil];
 }
 

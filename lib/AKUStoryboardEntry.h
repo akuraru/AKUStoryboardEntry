@@ -19,7 +19,7 @@
 - (id)initialViewController;
 - (id)viewController:(NSString *)identifier;
 
-- (void)showModelInitaial:(UIViewController *)controller;
+- (void)showModelInitial:(UIViewController *)controller;
 
 // Please override to return the name of the storyboard this method
 + (NSString *)storyboardName;

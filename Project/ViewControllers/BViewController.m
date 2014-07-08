@@ -16,7 +16,7 @@
     [[MainEntry sharedEntry] c:self.navigationController];
 }
 - (IBAction)touchModelA:(id)sender {
-    [[MainEntry sharedEntry] showModelInitaial:self];
+    [[MainEntry sharedEntry] showModelInitial:self];
 }
 
 @end
